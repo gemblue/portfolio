@@ -1,5 +1,5 @@
-# portfolio
+# My Portfolio Live Demo
 
-Portfolio or my project showcase landing page
+Landing page for my project showcase, also there is a live demo.
 
 Proudly Powered by Mobirise
